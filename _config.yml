@@ -1,0 +1,14 @@
+layout_spectrum: 0.8185822984669358
+typography_spectrum: 0.8744252666365355
+color:
+  brandStrength: 0.02078445628285408
+  lightness: 0.9485298446379602
+  saturation: 0.7644485123455524
+  rhythmicContrast: 0.02065642667002976
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+name: friday upwards
