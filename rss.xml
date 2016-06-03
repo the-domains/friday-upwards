@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[friday upwards]]></title>
+        <description><![CDATA[friday upwards]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 03 Jun 2016 11:14:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How We Trained an Algorithm to Predict What Makes a Beautiful Photo - Stories from EyeEm]]></title>
+            <description><![CDATA[<article><h1>How We Trained an Algorithm to Predict What Makes a Beautiful Photo - Stories from EyeEm</h1><p>EyeEm's Head of R&D explains how his team developed a deep learning technology that understands aesthetic taste and applies it to your photos. It's the core technology behind our new iOS app, .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/855b896710c3ed5e9f50585df4e320ea085de788.jpg"></article>]]></description>
+            <link>undefinedhow-we-trained-an-algorithm-to-predict-what-makes-a-beautifu/index.html</link>
+            <guid isPermaLink="false">44f3acf6-17d0-4022-a5bc-3b73d35e592b</guid>
+            <pubDate>Fri, 03 Jun 2016 11:13:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
